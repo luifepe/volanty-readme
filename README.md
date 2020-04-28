@@ -5,7 +5,9 @@
 
 # Match-making
 
-App de comparações entre diferentes bancos de dados de venta de veiculos
+App de comparações entre diferentes bancos de dados de venta de veiculos.
+
+# Funcionamento
 
 Tela de login com opção de usar correio já cadastrado da Volanty na máquina
 
