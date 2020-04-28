@@ -1,3 +1,8 @@
+## Prerequisitos / Instalação
+
+* **`npm install`**
+
+
 # Match-making
 
 A Match-making é um aplicativo feito no ambiente React-hooks, no qual o usuário pode fazer comparações de vários bancos de dados carregados no servidor
@@ -20,11 +25,6 @@ Se deseja fazer um novo processo de Match pode clicar no botão **`Novo Match`**
 ![ProcurandoMatchNovo](https://user-images.githubusercontent.com/52355873/80542036-ada13b00-8982-11ea-97fd-a1253613f4cd.gif)
 
 
-
-## Instalação
-
-
-* **`npm install`**
 
 * **`URL Base para consulta`** [Match] (https://match-api-rest.herokuapp.com)
 
